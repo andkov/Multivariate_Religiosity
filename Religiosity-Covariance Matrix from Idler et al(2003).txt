@@ -1,0 +1,17 @@
+v1: Life-changing experience —
+v2: Public practices .32 —
+v3: Private practices .47 .62 —
+v4: Congregation benefits .21 .34 .31 —
+v5: Congregation problems –.12 –.12 –.16 –.04 —
+v6: Positive religious coping .41 .54 .67 .30 –.10 —
+v7: Negative religious coping .06 –.05 –.00 –.12 –.15 .05 —
+v8: Beliefs .38 .49 .57 .33 –.11 .67 .03 —
+v9: Money given to congregation .12 .27 .21 .12 –.04 .15 –.04 .15 —
+v10: Giving-to-income ratio .25 .56 .48 .23 –.15 .37 –.03 .33 .53 —
+v11: Forgiveness .22 .35 .42 .23 .00 .48 –.09 .46 .10 .24 —
+v12: Daily spiritual experience .41 .58 .70 .39 –.13 .76 –.00 .67 .15 .40 .52 —
+v13: Religious intensity .42 .57 .65 .34 –.13 .69 –.02 .64 .17 .37 .44 .72 —
+v14: In-home activity amount .26 .37 .48 .18 –.09 .36 –.00 .29 .10 .32 .22 .39 .36 —
+v15: Outside home activity amount .21 .44 .36 .20 –.09 .30 –.03 .24 .16 .42 .21 .31 .30 .50 —
+v16: Born again .52 .37 .49 .25 –.14 .43 .06 .40 .11 .31 .29 .43 .42 .26 .22 —
+v17: Strength of affiliation .31 .61 .55 .26 –.11 .51 –.06 .49 .20 .44 .35 .54 .59 .33 .30 .35 —
